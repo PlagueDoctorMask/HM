@@ -30,14 +30,14 @@ if(task == "36")
         int count = 0;
         for(int i = 0; i < array.Length; i++)
         {
-            if(i%2 == 0)
+            if(i%2 != 0)
             count+=array[i];
         }
         return count;
     }
 
     int[] array = new int[10];
-    for(int i = 0; i < 10; i ++)
+    for(int i = 0; i < array.Length; i ++)
     {
         array[i] = new Random().Next(1,11);
     }
