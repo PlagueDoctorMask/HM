@@ -1,0 +1,15 @@
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.csproj.AssemblyReference.cache
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.AssemblyInfoInputs.cache
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.AssemblyInfo.cs
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.csproj.CoreCompileInputs.cache
+C:\Users\ZASQL\Desktop\C#\HM\Task9\bin\Debug\net7.0\Task9.exe
+C:\Users\ZASQL\Desktop\C#\HM\Task9\bin\Debug\net7.0\Task9.deps.json
+C:\Users\ZASQL\Desktop\C#\HM\Task9\bin\Debug\net7.0\Task9.runtimeconfig.json
+C:\Users\ZASQL\Desktop\C#\HM\Task9\bin\Debug\net7.0\Task9.dll
+C:\Users\ZASQL\Desktop\C#\HM\Task9\bin\Debug\net7.0\Task9.pdb
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.dll
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\refint\Task9.dll
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.pdb
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\Task9.genruntimeconfig.cache
+C:\Users\ZASQL\Desktop\C#\HM\Task9\obj\Debug\net7.0\ref\Task9.dll
